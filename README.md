@@ -6,7 +6,9 @@ Interactive Sales Performance Dashboard using Microsoft Excel
 This project focuses on analyzing retail sales data using Microsoft Excel and creating an interactive dashboard to understand business performance.
 
 The dashboard presents key performance indicators (KPIs), sales trends, product performance, regional profitability, and payment method analysis.
+## 🖼️ Dashboard Preview
 
+![Sales Performance Dashboard](Dashboard-preview.png)
 ## 🛠️ Tools and Skills Used
 - Microsoft Excel
 - Data Cleaning and Preparation
